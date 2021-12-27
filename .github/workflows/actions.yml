@@ -40,5 +40,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository }}:latest
-            ghcr.io/${{ github.repository }}:1.0.0
+            ghcr.io/Hidenori333/todo:latest
+            ghcr.io/Hidenori333/todo:1.0.0
